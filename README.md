@@ -1,4 +1,5 @@
 BeYad Farhad&Ramin🥀🖤
+This script was created to help us stop scammers by working together
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
