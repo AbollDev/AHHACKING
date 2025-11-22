@@ -1,4 +1,4 @@
-Author: AbolFazl
+BeYad Farhad&Ramin🥀🖤
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
